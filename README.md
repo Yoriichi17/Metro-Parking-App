@@ -1,12 +1,21 @@
-![P1](https://github.com/user-attachments/assets/72ba8284-6ef6-42f1-a857-6b7db95cd83c)
-![P2](https://github.com/user-attachments/assets/5280aa80-f9d5-48ba-a27b-cb5382378484)
-![P3](https://github.com/user-attachments/assets/ef86015d-fd82-4058-9c61-5c4477037dad)
-![P4](https://github.com/user-attachments/assets/9943635b-1b30-4438-a83c-b7affc472d3a)
-![P5](https://github.com/user-attachments/assets/2f8a468e-4777-4e15-8f79-940b58dba806)
-![P6](https://github.com/user-attachments/assets/9b222b71-78d2-4dce-ae77-1c7230de96b0)
-![P7](https://github.com/user-attachments/assets/5b036d14-a8aa-4eb7-a51d-071e2946137f)
-![P8](https://github.com/user-attachments/assets/7209d4bb-afb3-4c87-b207-4bf51a24db3c)
-![P9](https://github.com/user-attachments/assets/7821cc2b-29f0-460d-ac68-8b09b16a8db4)
-![P10](https://github.com/user-attachments/assets/a0d80ef0-0839-4885-b7d6-e80a866df090)
-![P11](https://github.com/user-attachments/assets/210e1662-7696-464d-8cee-1638bd985dd8)
-![P12](https://github.com/user-attachments/assets/107749bf-7f42-4ed2-859b-43b20929456a)
+![Screenshot 2024-09-23 094949](https://github.com/user-attachments/assets/725bd3e7-dd91-45fa-80a8-00012b29eb5b)
+![Screenshot 2024-09-23 095111](https://github.com/user-attachments/assets/b5bb18cc-eebf-475c-8477-c56f21769514)
+![Screenshot 2024-09-23 095151](https://github.com/user-attachments/assets/2ac98ad0-1032-4b1c-8de7-d6f16b8607f7)
+
+
+Developed a multi-page React Native application using Expo CLI for managing vehicle registration, parking, and payments at metro stations. Key features include:
+- User authentication with secure sign-up and login forms.
+- Vehicle registration and parking fee calculation using MongoDB to store vehicle and parking details.
+- Payment gateway integration with Razorpay for cash and QR code-based payments.
+- SMS notifications using Twilio for confirmation of vehicle registration and payment.
+- Dynamic search functionality for retrieving vehicle details by license plate number and calculating parking fees.
+- Organized backend using Node.js and Express with clean, modular architecture.
+
+Skills/Technologies Used:
+
+Frontend: React Native (Expo CLI)
+Backend: Node.js, Express
+Database: MongoDB
+Payment Integration: Razorpay
+SMS Service: Twilio
+Version Control: Git
